@@ -7,8 +7,9 @@ Soy **Doctor en Informática** por la *Universidad de Córdoba* y Lean **Six Sig
 ### Trayectoria en el campo de la educación
 
 ### Contacto
-![Ver mi perfil en LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="350" alt="accessibility text">
+<a href="https://www.linkedin.com/in/luisdelmoralmartinez/">
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="48" alt="Ver mi perfil en LinkedIn">
+</a>
 
 ### Mi actividad
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=ldmoral1987&show_icons=true&theme=highcontrast)
