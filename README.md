@@ -2,7 +2,7 @@
 <div style="margin: 0 auto;width:100%;">
 <p style="float:left;width:70%;">Mi nombre es <b>Luis del Moral Martínez</b>, y te doy la bienvenida a mi perfil de GitHub. En este repositorio encontrarás proyectos y documentación de interés relacionada en parte con la docencia de las asignaturas de primer y segundo curso del <b>Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)</b>, así como otros proyectos y repositorios creados con el objetivo de aprender y compartir. Eres completamente libre de hacer un <b>fork</b> del repositorio que te interese y usarlo para lo que necesites. En algunos de los repositorios encontrarás también <b>documentación</b> en PDF de mi propia creación. No dudes en contactarme si detectas alguna <i>errata<i> o si tienes alguna <i>idea de mejora<i>. ¡Te lo agradeceré y te citaré debidamente! :wink:.</p>
 
-<img style="float:right;width:30%;" style="max-width:115%;width:115%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldmoral1987&show_icons=true&locale=en&layout=compact" alt="ldmoral1987"/>
+<img style="float:right;width:30%;max-width:115%;width:115%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldmoral1987&show_icons=true&locale=en&layout=compact" alt="ldmoral1987"/>
 <div>
 
 ### Acerca de
