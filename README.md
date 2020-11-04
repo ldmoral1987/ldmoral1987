@@ -18,6 +18,6 @@ Mi trayectoria en el campo de la formación se remonta a más de diez años, pue
 
 ### Mi actividad
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=ldmoral1987&show_icons=true&theme=highcontrast)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ldmoral1987&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ldmoral1987&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy) 
 <br>
 <img src="https://komarev.com/ghpvc/?username=ldmoral1987&label=Profile%20views&color=0e75b6&style=flat" alt="ldmoral1987"/>
