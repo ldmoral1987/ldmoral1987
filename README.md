@@ -14,4 +14,4 @@ Mi trayectoria en el campo de la formación se remonta a más de diez años, pue
 
 ### Mi actividad
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=ldmoral1987&show_icons=true&theme=highcontrast)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ldmoral1987&theme=onedark&row=6&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ldmoral1987&theme=onedark&row=7&column=1)](https://github.com/ryo-ma/github-profile-trophy)
