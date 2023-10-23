@@ -14,8 +14,6 @@ Mi trayectoria en el campo de la formación se remonta a más de diez años, pue
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" alt="Ver mi perfil en LinkedIn">
 </a>
 <br>
-<a href="https://www.luisdelmoral.es" target="_blank">https://www.luisdelmoral.es
-</a>
 
 ### Mi actividad
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=ldmoral1987&show_icons=true&theme=highcontrast)
