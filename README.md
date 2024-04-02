@@ -11,7 +11,7 @@ Mi trayectoria en el campo de la formación se remonta a más de diez años, pue
 
 ### Contacto
 <a href="https://www.linkedin.com/in/luisdelmoralmartinez/" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" alt="Ver mi perfil en LinkedIn">
+  <img src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png)" width="32" alt="Ver mi perfil en LinkedIn">
 </a>
 <br>
 
